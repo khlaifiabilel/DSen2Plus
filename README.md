@@ -1,4 +1,4 @@
-# DSen2+
+# DSen2Plus
 Super-Resolution of Sentinel-2 Images: Learning a Globally Applicable Deep Neural Network
 
 ## Requirements
